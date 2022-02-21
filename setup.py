@@ -13,5 +13,5 @@ setup(name='juliasfinest',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/juliasfinest-run'],
+      scripts=['scripts/juliasfinest-run', 'scripts/juliasfinest-trythis'],
       zip_safe=False)
