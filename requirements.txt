@@ -27,3 +27,13 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# students' packs
+git+ssh://git@github.com/Madniel/mdproject
+git+ssh://git@github.com/robpasternak/fibonachos
+git+ssh://git@github.com/alexanderdust/myfirstproject
+git+ssh://git@github.com/Lerajaro/mytestpackage
+git+ssh://git@github.com/kimfriedel/awesome_cool
+git+ssh://git@github.com/mkvph0ch/wavenum
+git+ssh://git@github.com:henna-kim/hennas_rep
+git+ssh://git@github.com/vicentefuhrmann/the_first_project
